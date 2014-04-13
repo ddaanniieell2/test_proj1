@@ -7,6 +7,11 @@ public class TestClass2 {
 		// comment1
 		//ch1
 		//ch2
+		
+		// cghgdcjhjsgg jdhsgd jgjsd
+		// sdjhdjhsjdhjhj
+		//ssssssssssss
+		//ssssssssssss
 		//ssssssssssss
 	}
 
